@@ -1,4 +1,4 @@
-# Cardiovascular Disease Risk Prediction Using Machine Learning
+# Hypertension and Heart Disease  Risk Prediction Using Machine Learning Model
 
 ## Project Overview
 
