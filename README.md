@@ -1,2 +1,2 @@
-# Hypertension-and-Heart-Disease-Presiction
+# Hypertension-and-Heart-Disease-Prediction
 Model
